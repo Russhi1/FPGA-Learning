@@ -1,0 +1,36 @@
+# ---- Quartus Prime ----
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+qdb/
+tmp-clearbox/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.sld
+*.qws
+*.sof
+*.pof
+*.rbf
+*.cdf.bak
+
+# ---- ModelSim / Questa ----
+work/
+simulation/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+modelsim.ini
+vish_stacktrace.vstf
+
+# ---- Misc ----
+.DS_Store
+Thumbs.db
+*.bak
+*~
+.vscode/
