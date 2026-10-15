@@ -92,7 +92,7 @@ design_name/
 | # | Design | Language | Simulated | Synthesized | On hardware | Link |
 |---|---|---|---|---|---|---|
 | 1 | 4-bit register | VHDL | ✅ | ✅ | 🔲 | [`02-sequential/registers`](02-sequential/registers) |
-| 2 | *add as you go…* | | | | | |
+| 2 | ** | | | | | |
 
 ## Documentation Highlights
 
